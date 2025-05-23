@@ -12,14 +12,13 @@ Resumen : Este proyecto busca crear una aplicación infantil para entretener a u
 Estilo/género: juego arcade.
 
 Logotipo : El Logotipo es original de la serie de animación
-
-(insertar imágenes a resolucion de 100px alto)
+![Anotación 2025-05-23 123319](https://github.com/user-attachments/assets/77c0b096-47a0-4140-a1d6-b01abcd0b001)
 
 Resolución: 600x400px, tamaño fijo, no reescalable.
 
-Probado en: google chrome y microsoft edge
+Probado en: google chrome y microsoft edge.
 
-Tamaño proyecto: 6MB
+Tamaño proyecto: 6MB.
 
 Fecha : 14/05/2025
 
@@ -32,18 +31,18 @@ Artstation: https://www.artstation.com/almasketch
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Consiste en un juego web donde pasamos de un menú con el título a la pantalla de juego a través de un botón. El juego consiste en hacer click para esconder a Rainbow Dash detrás de las nuves, se puede mover al poni con el ratón on con las teclas WASD. Hay otro botón para regresar al menú de inicio.
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Anotación 2025-05-23 124319](https://github.com/user-attachments/assets/25407042-442c-42bb-9a2a-2013455b749b)
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque es un juego arcade que permite captar la atención de los niños con la jugabilidad y sus colores brillantes.
 
-Orientado a .. (Público)
+Orientado a público infantil
 
 Etapa 2: Desarrollo / actividades realizadas
 
@@ -52,10 +51,10 @@ Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
 Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+Después de jugar, al volver al inicio y volver a jugar la partida sigue, no se reinicia.
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Es un pequeño proyecto, hecho para provar funciones de programación más complejas. En un futuro espero poder mejorarlo y ampliarlo, así como arreglar sus problemas.
 
 ## 5 Referencias
 **Artículos y blogs **
